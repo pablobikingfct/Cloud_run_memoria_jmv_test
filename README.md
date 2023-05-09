@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started
 
 ### Reference Documentation
@@ -20,3 +21,6 @@ These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
+=======
+# Cloud_run_memoria_jmv_test
+>>>>>>> 22d5f80c0d1dc821028ed9bfe0c57cb16607a9a6
